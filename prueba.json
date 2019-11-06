@@ -31,6 +31,30 @@
       "subtitulo": "Facultad”
       },
     {
+      "latitud":19.331942,
+      "longitud":-99.181244 ,
+      "titulo":  "Química",
+      "subtitulo":"Facultad"
+      },
+    {
+      "latitud":19.333406,
+      "longitud": -19.333406,
+      "titulo":"Biblioteca Central",
+      "subtitulo":"Libros”
+      },
+    {
+      "latitud":19.33114,
+      "longitud": -99.187717,
+      "titulo":"MUCA",
+      "subtitulo":"Museo”
+      },
+    {
+      "latitud":19.33487,
+      "longitud":  -99.18341,
+      "titulo":"Economia" ,
+      "subtitulo": "Facultad"
+      },
+    {
       "latitud":19.33463,
       "longitud":-99.185838,
       "titulo":"Filosofia",
@@ -61,12 +85,10 @@
       "subtitulo": "Socioeconomía"
       }
     {
-      
       "latitud":19.334314,
       "longitud":-99.181598,
       "titulo":"Odontologia”,
       "subtitulo":"Facultad”
-      
       },
     {
       "latitud": 19.330915,
