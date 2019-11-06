@@ -23,13 +23,6 @@
       "longitud":-99.180247,
       "titulo": "Medicina",
       "subtitulo": "Facultad”
-      },
-    {
-      "latitud": 19.327762,
-      "longitud": -99.176196,
-      "titulo": "Instituto de Geología",
-      "subtitulo":"Investigación”
-      },
-   ]
-     
+      }
+   ]   
 }
