@@ -25,24 +25,11 @@
       "subtitulo": "Facultad”
       },
     {
-      "latitud":19.33114,
-      "longitud": -99.187717,
-      "titulo":"MUCA",
-      "subtitulo":"Museo”
-      },
-    {
       "latitud": 19.327762,
       "longitud": -99.176196,
       "titulo": "Instituto de Geología",
       "subtitulo":"Investigación”
-      },
-    {
-     "latitud":19.324799,
-      "longitud": -99.177047,
-      "titulo": "Instituto de Física",
-      "subtitulo": "Investigación”
       } 
-      
    ]
      
 }
